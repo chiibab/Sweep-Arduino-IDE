@@ -25,12 +25,12 @@
 // const char* UDP_ADDR  = "10.124.58.24";
 
 const uint16_t UDP_PORT = 8887;
-// const char* SSID      = "HR01a-FEE321";
-// const char* PASSWORD  = "a4dc520d52";
+const char* SSID      = "HR01a-FEE321";
+const char* PASSWORD  = "a4dc520d52";
 const char* UDP_ADDR = "192.168.1.7";
 
-const char* SSID      = "_VelopSetup23D";
-const char* PASSWORD  = "df91frf9bx";
+// const char* SSID      = "_VelopSetup23D";
+// const char* PASSWORD  = "df91frf9bx";
 
 
 // 背光控制管脚（由 GPIO27 驱动 TFT VLED） :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
